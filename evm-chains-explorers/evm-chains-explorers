@@ -311,8 +311,6 @@ _set_overrides() {
     "kirsh"
 }
 
-# Show help usage, with an exit status.
-# $1: exit status number.
 _usage() {
   local \
     _exit="${1}" \
